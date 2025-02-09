@@ -7,3 +7,13 @@ Day 2 : 07/02/25
 Learn: Tables | image reference
 Implement: Table rows and data in educational Qualification Field | Added a image reference through navigation
 Challenges: No Challenges faced
+
+Day 3 : 07/02/25
+learn: tags in html | css
+implement: header tag,p tag,body tag | background colour , fonts
+challenges: Css not working inside the tag but solved
+
+Day 4 : 08/02/25
+Learn: Tables | image reference
+Implement: Table rows and data in educational Qualification Field | Added a image reference through navigation
+Challenges: No Challenges faced
